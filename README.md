@@ -16,9 +16,10 @@ Install dotnet 7.0
 
 1. Download / UnCompress the Zip 
 2. On your Terminal, Navigate to AutoCompleteAPI/AutoCompleteAPI (you should see AutoCOmpleteAPI.csproj)
-3. Run command `dotnet build`
-4. Run command `dotnet run`
-5. You should see the service listening on port 5000
+3. Run command `dotnet dev-certs https --trust`
+4. Run command `dotnet build`
+5. Run command `dotnet run`
+6. You should see the service listening on port 5000
 
 # UI
 
