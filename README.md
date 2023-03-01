@@ -1,5 +1,6 @@
 # AutoComplete
 
+Demo Video Link: [Video](https://drive.google.com/file/d/1JhMZi21Po9HpNqVYWgLR3rk7a9gIO5vR/view?usp=share_link)
 
 # Tech Stack
 .Net Core 7.0 Web API, C#
@@ -9,7 +10,7 @@
 Install dotnet 7.0 
   mac - brew install dotnet (should install the latest version
   
-  Direct Download Link - https://dotnet.microsoft.com/en-us/download/dotnet/7.0
+  Direct Download Link - [Download](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 
 # API Project Setup
 
